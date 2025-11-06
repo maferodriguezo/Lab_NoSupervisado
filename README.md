@@ -20,11 +20,11 @@
 
 ---
 
-## **📋 Descripción**
+## **Descripción**
 
 Este proyecto implementa un análisis de clustering no supervisado utilizando el algoritmo **K-Means** sobre el famoso **dataset Iris**. El objetivo es agrupar las flores Iris en clusters basándose en sus características morfológicas mediante **procesamiento distribuido con PySpark**.
 
-## **✨ Características Principales**
+## **Características Principales**
 
 - **Preprocesamiento completo** de datos con PySpark
 - **Análisis del número óptimo de clusters** usando Silhouette Score
@@ -32,22 +32,22 @@ Este proyecto implementa un análisis de clustering no supervisado utilizando el
 - **Visualización de resultados** con matplotlib
 - **Procesamiento distribuido** para manejo de datos a gran escala
 
-## **🛠️ Tecnologías Utilizadas**
+## **Tecnologías Utilizadas**
 
-- **Python 3.9+**
+- **Python**
 - **PySpark** - Procesamiento distribuido
 - **Jupyter Notebook** - Entorno de desarrollo
 - **matplotlib** - Visualización de datos
 - **wget** - Descarga de datasets
 
-## **📊 Dataset**
+## **Dataset**
 
 **Iris Dataset** - Universidad de California Irvine (UCI)
 - **150 muestras** de flores Iris
 - **4 características**: longitud/ancho de sépalo y pétalo
 - **3 especies**: setosa, versicolor, virginica
 
-## **🚀 Instalación y Ejecución**
+## **Instalación y Ejecución**
 
 ### **1. Clonar el repositorio:**
 ```bash
