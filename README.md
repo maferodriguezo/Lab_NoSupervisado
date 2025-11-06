@@ -7,16 +7,16 @@
 **Análisis de clustering utilizando el algoritmo K-Means aplicado al dataset Iris para la materia de Procesamiento de Alto Volumen de Datos.**
 
 ## **Autores**
-- **María Fernanda Rodríguez Ospina**
+María Fernanda Rodríguez Ospina
 
 ## **Profesor**
-**John Corredor Franco**
+John Corredor Franco
 
 ## **Institución**
-**Pontificia Universidad Javeriana**
+Pontificia Universidad Javeriana
 
 ## **Materia**
-**Procesamiento de Alto Volumen de Datos**
+Procesamiento de Alto Volumen de Datos
 
 ---
 
