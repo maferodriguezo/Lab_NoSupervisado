@@ -22,7 +22,7 @@ Procesamiento de Alto Volumen de Datos
 
 ## **Descripción**
 
-Este proyecto implementa un análisis de clustering no supervisado utilizando el algoritmo **K-Means** sobre el famoso **dataset Iris**. El objetivo es agrupar las flores Iris en clusters basándose en sus características morfológicas mediante **procesamiento distribuido con PySpark**.
+Este proyecto implementa un análisis de clustering no supervisado utilizando el algoritmo K-Means sobre el famoso dataset Iris. El objetivo es agrupar las flores Iris en clusters basándose en sus características morfológicas mediante procesamiento distribuido con PySpark.
 
 ## **Características Principales**
 
@@ -43,9 +43,9 @@ Este proyecto implementa un análisis de clustering no supervisado utilizando el
 ## **Dataset**
 
 **Iris Dataset** - Universidad de California Irvine (UCI)
-- **150 muestras** de flores Iris
-- **4 características**: longitud/ancho de sépalo y pétalo
-- **3 especies**: setosa, versicolor, virginica
+- **150 muestras:** flores Iris
+- **4 características:** longitud/ancho de sépalo y pétalo
+- **3 especies:** setosa, versicolor, virginica
 
 ## **Instalación y Ejecución**
 
